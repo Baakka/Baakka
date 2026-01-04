@@ -49,9 +49,9 @@ I'm a software engineer passionate about building reliable, distributed systems 
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Baakka/git-crdt-cms">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Baakka&repo=git-crdt-cms&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-  </a>
+
+[![git-crdt-cms](https://github-readme-stats.vercel.app/api/pin/?username=Baakka&repo=git-crdt-cms&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Baakka/git-crdt-cms)
+
 </div>
 
 <br/>

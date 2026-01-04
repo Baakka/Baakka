@@ -13,7 +13,6 @@
 
 I'm a software engineer passionate about building reliable, distributed systems and exploring innovative approaches to collaborative software development.
 
-- 🔭 Currently working on **[git-crdt-cms](https://github.com/Baakka/git-crdt-cms)** - A Git-native CRDT system for conflict-free collaborative editing
 - 🌱 Deep diving into **Rust, CRDTs, Distributed Systems**
 - 💡 Interested in **Version Control Systems, Real-time Collaboration, System Design**
 - 🎯 Focus on **Code Quality, Testing, CI/CD Best Practices**
@@ -43,29 +42,6 @@ I'm a software engineer passionate about building reliable, distributed systems 
 ![Yrs](https://img.shields.io/badge/Yjs/Yrs-FFCB00?style=for-the-badge&logoColor=black)
 
 </div>
-
-<br/>
-
-## 🎯 Featured Project: git-crdt-cms
-
-<div align="center">
-  <a href="https://github.com/Baakka/git-crdt-cms">
-    <img src="https://img.shields.io/badge/⭐_git--crdt--cms-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="git-crdt-cms"/>
-  </a>
-</div>
-
-<br/>
-
-A revolutionary approach to collaborative editing that combines Git's powerful version control with CRDTs for conflict-free merging:
-
-- ✅ **Real-time Collaboration** - WebSocket-based sync with relay server
-- ✅ **Git Integration** - Seamless Git filter/smudge system
-- ✅ **Conflict-Free Merges** - CRDT-powered automatic merge resolution
-- ✅ **Self-Contained State** - All content materializable from Git checkout
-- ✅ **Production Ready** - Comprehensive test suite (53+ tests) with CI/CD
-- ✅ **Flexible Modes** - Support for both CRDT and plain-text branches
-
-**[→ Check it out](https://github.com/Baakka/git-crdt-cms)**
 
 <br/>
 

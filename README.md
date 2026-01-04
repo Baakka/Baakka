@@ -50,7 +50,7 @@ I'm a software engineer passionate about building reliable, distributed systems 
 
 <div align="center">
 
-[![git-crdt-cms](https://github-readme-stats.vercel.app/api/pin/?username=Baakka&repo=git-crdt-cms&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/Baakka/git-crdt-cms)
+[![git-crdt-cms](https://github-readme-stats.vercel.app/api/pin/?username=Baakka&repo=git-crdt-cms&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000)](https://github.com/Baakka/git-crdt-cms)
 
 </div>
 
@@ -72,12 +72,12 @@ A revolutionary approach to collaborative editing that combines Git's powerful v
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baakka&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Baakka&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baakka&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Baakka&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baakka&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baakka&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@ A revolutionary approach to collaborative editing that combines Git's powerful v
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baakka&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Baakka&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 <br/>
@@ -93,7 +93,7 @@ A revolutionary approach to collaborative editing that combines Git's powerful v
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baakka&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baakka&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
 </div>
 
 <br/>

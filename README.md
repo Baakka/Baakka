@@ -46,17 +46,15 @@ I'm a software engineer passionate about building reliable, distributed systems 
 
 <br/>
 
-## 🎯 Featured Projects
+## 🎯 Featured Project: git-crdt-cms
 
 <div align="center">
-
-[![git-crdt-cms](https://github-readme-stats.vercel.app/api/pin/?username=Baakka&repo=git-crdt-cms&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000)](https://github.com/Baakka/git-crdt-cms)
-
+  <a href="https://github.com/Baakka/git-crdt-cms">
+    <img src="https://img.shields.io/badge/⭐_git--crdt--cms-View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="git-crdt-cms"/>
+  </a>
 </div>
 
 <br/>
-
-### 🔥 git-crdt-cms Highlights
 
 A revolutionary approach to collaborative editing that combines Git's powerful version control with CRDTs for conflict-free merging:
 
@@ -67,33 +65,16 @@ A revolutionary approach to collaborative editing that combines Git's powerful v
 - ✅ **Production Ready** - Comprehensive test suite (53+ tests) with CI/CD
 - ✅ **Flexible Modes** - Support for both CRDT and plain-text branches
 
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Baakka&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Baakka&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baakka&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</div>
+**[→ Check it out](https://github.com/Baakka/git-crdt-cms)**
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baakka&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</div>
 
-<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Baakka&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baakka&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="Contribution Graph" />
 </div>
 
 <br/>
@@ -114,5 +95,5 @@ Feel free to reach out if you want to collaborate on interesting projects!
 ---
 
 <div align="center">
-  <sub>Built with ❤️ using GitHub Profile README Generator</sub>
+  <sub>⚡ Powered by Rust & Open Source</sub>
 </div>
